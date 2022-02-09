@@ -1,0 +1,25 @@
+C:\Users\Gepar\documents\visual studio 2013\Projects\c sahrp\c sahrp\bin\Debug\Copiar y mover.exe.config
+C:\Users\Gepar\Documents\visual studio 2013\Projects\Copiar y Mover\c sahrp\bin\Debug\Copiar y mover.exe.config
+C:\Users\Soporte Sistemas\source\repos\Copiar y Mover\Copiar y Mover\c sahrp\bin\Debug\Copiar y mover.exe.config
+C:\Users\Soporte Sistemas\source\repos\Copiar y Mover\Copiar y Mover\c sahrp\bin\Debug\Copiar y mover.exe
+C:\Users\Soporte Sistemas\source\repos\Copiar y Mover\Copiar y Mover\c sahrp\bin\Debug\Copiar y mover.pdb
+C:\Users\Soporte Sistemas\source\repos\Copiar y Mover\Copiar y Mover\c sahrp\obj\Debug\c_sahrp.Form1.resources
+C:\Users\Soporte Sistemas\source\repos\Copiar y Mover\Copiar y Mover\c sahrp\obj\Debug\Copiar_Mover.Properties.Resources.resources
+C:\Users\Soporte Sistemas\source\repos\Copiar y Mover\Copiar y Mover\c sahrp\obj\Debug\Copiar y mover.csproj.GenerateResource.cache
+C:\Users\Soporte Sistemas\source\repos\Copiar y Mover\Copiar y Mover\c sahrp\obj\Debug\Copiar y mover.csproj.CoreCompileInputs.cache
+C:\Users\Soporte Sistemas\source\repos\Copiar y Mover\Copiar y Mover\c sahrp\obj\Debug\Copiar y mover.exe
+C:\Users\Soporte Sistemas\source\repos\Copiar y Mover\Copiar y Mover\c sahrp\obj\Debug\Copiar y mover.pdb
+C:\Users\Soporte Sistemas\source\repos\Copiar y Mover\Copiar y Mover\c sahrp\bin\Debug\Magick.NET-Q16-AnyCPU.dll
+C:\Users\Soporte Sistemas\source\repos\Copiar y Mover\Copiar y Mover\c sahrp\bin\Debug\Magick.NET.Core.dll
+C:\Users\Soporte Sistemas\source\repos\Copiar y Mover\Copiar y Mover\c sahrp\bin\Debug\Magick.NET-Q16-AnyCPU.xml
+C:\Users\Soporte Sistemas\source\repos\Copiar y Mover\Copiar y Mover\c sahrp\bin\Debug\Magick.NET.Core.xml
+C:\Users\Soporte Sistemas\source\repos\Copiar y Mover\Copiar y Mover\c sahrp\obj\Debug\Copiar y mover.csproj.CopyComplete
+C:\Users\Soporte Sistemas\source\repos\Copiar y Mover\Copiar y Mover\c sahrp\bin\Debug\itextsharp.dll
+C:\Users\Soporte Sistemas\source\repos\Copiar y Mover\Copiar y Mover\c sahrp\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Soporte Sistemas\source\repos\Copiar y Mover\Copiar y Mover\c sahrp\bin\Debug\PdfSharp.dll
+C:\Users\Soporte Sistemas\source\repos\Copiar y Mover\Copiar y Mover\c sahrp\bin\Debug\itextsharp.xml
+C:\Users\Soporte Sistemas\source\repos\Copiar y Mover\Copiar y Mover\c sahrp\bin\Debug\PdfSharp.xml
+C:\Users\Soporte Sistemas\source\repos\Copiar y Mover\Copiar y Mover\c sahrp\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Soporte Sistemas\source\repos\Copiar y Mover\Copiar y Mover\c sahrp\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Soporte Sistemas\source\repos\Copiar y Mover\Copiar y Mover\c sahrp\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Soporte Sistemas\source\repos\Copiar y Mover\Copiar y Mover\c sahrp\obj\Debug\Copiar y mover.csprojAssemblyReference.cache
